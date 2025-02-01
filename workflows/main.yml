@@ -14,14 +14,14 @@ jobs:
             - name: 21f1002734@ds.study.iitm.ac.in
               run: echo "Hello, world!"
 
-            - name: Set up Python 3.13 # Set up a specific Python version
-              uses: actions/setup-python@v4
-            with:
-              python-version: 3.13
+            # - name: Set up Python 3.13 # Set up a specific Python version
+            #   uses: actions/setup-python@v4
+            # with:
+            #   python-version: 3.13
               
-            - name: Build the app # Example: Build your application
-            run: |
-              # Add your build commands here (e.g., compiling, packaging)
-              echo "Building..."
+            # - name: Build the app # Example: Build your application
+            # run: |
+            #   # Add your build commands here (e.g., compiling, packaging)
+            #   echo "Building..."
 
-            - uses: actions/checkout@v3 # Checkout your repository code
+            # - uses: actions/checkout@v3 # Checkout your repository code
