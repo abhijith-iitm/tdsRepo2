@@ -1,9 +1,0 @@
-﻿{
-  "agentId": 2,
-  "agentName": "JITHUS-DESKTOP",
-  "poolId": 1,
-  "poolName": "Default",
-  "serverUrl": "https://pipelinesghubeus24.actions.githubusercontent.com/we1Kl0jY5R9GIlKtKfGrmgB5yAtMwhz027YW6UfXBj0qG3fVSE/",
-  "gitHubUrl": "https://github.com/abhijith-iitm/tdsRepo2",
-  "workFolder": "_work"
-}
